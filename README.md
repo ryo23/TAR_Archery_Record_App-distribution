@@ -1,1 +1,53 @@
-# TAR_Archery_Record_App-distribution
+<div align="center">
+  <img src="app_icon.png" width="160" height="160" alt="TAR Archery Record App Icon" style="border-radius: 20%;">
+  <h1>TAR Archery Record App</h1>
+  <p><b>アーチェリーの練習・試合記録を、よりスマートに。</b></p>
+</div>
+
+---
+
+## 🏹 アプリについて
+
+TAR Archery Record App は、アーチェリー競技者のためのスコア管理・分析アプリです。
+直感的なスコア入力、自動的な気象データの取得、そして詳細な統計分析により、あなたの的中精度向上をサポートします。
+
+### 主な機能
+- **簡単スコア入力**: 的をタップするような感覚で直感的に入力可能。
+- **自動気象取得**: 記録時の場所・時刻に基づき、風速や気温を自動で記録。
+- **用具管理**: 複数の弓具セッティングをプロファイルとして保存。
+- **詳細な分析**: 過去の傾向をグラフ化。的中実績に応じたバッジコレクション機能も搭載。
+
+---
+
+## 📲 ダウンロード
+
+現在、Android版を先行公開しています。
+
+| Platform | Status | Link |
+| :--- | :--- | :--- |
+| **Android (APK)** | **公開中 (v1.2.0)** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
+| **iOS (App Store)** | **準備中** | 審査準備中（近日公開予定） |
+
+> [!NOTE]
+> Android版はAPKファイルでの配布となります。インストール時に「不明なアプリのインストール」の許可が必要になる場合があります。
+
+---
+
+## 📖 使い方ガイド
+
+操作方法の詳細については、以下のマニュアルをご覧ください。
+
+👉 [**オンライン操作マニュアルはこちら**](docs/user_manual.md)
+
+---
+
+## 🛡️ 安全性と透明性
+
+本アプリはセキュリティと透明性を重視しています。
+- **クリーンビルド**: GitHub Actions を用いて、公開されたソースコードから自動ビルドされています。
+- **マルウェア検査**: すべてのリリースは VirusTotal によるスキャンを受け、安全性が確認されています。
+
+---
+<div align="center">
+  <p>© 2026 TAR Archery Team</p>
+</div>
