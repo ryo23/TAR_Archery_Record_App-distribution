@@ -25,7 +25,7 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 
 | Platform | Status | Link |
 | :--- | :--- | :--- |
-| **Android (APK)** | **公開準備中 (v1.2.0)** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
+| **Android (APK)** | **公開中 (v1.2.1)** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **iOS (App Store)** | **準備中** | 審査準備中（近日公開予定） |
 
 > [!NOTE]
@@ -37,7 +37,7 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 
 操作方法の詳細については、以下のマニュアルをご覧ください。
 
-👉 [**オンライン操作マニュアルはこちら**](docs/user_manual.md)。スクリーンショットは未対応
+👉 [**オンライン操作マニュアルはこちら**](docs/user_manual.md)
 
 ---
 
