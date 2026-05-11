@@ -12,6 +12,10 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 直感的なスコア入力、自動的な気象データの取得、そして詳細な統計分析により、あなたの的中精度向上をサポートします。
 
 ## 最新リリース
+### [v1.2.3] - 2026-05-11
+- **修正**: Android環境でのファイル共有時に拡張子が消失する不具合を修正
+- **改善**: バックアップボタン（JSON）の視認性を向上
+
 ### [v1.2.2] - 2026-05-10
 - **新機能**: 個別の記録をファイル（JSON）として書き出し・読み込みできる機能を追加
 - **機能改善**: 的プロット入力時、同じエンドの過去の矢を番号付きで表示するように改善
@@ -39,7 +43,7 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 
 | Platform | Status | Link |
 | :--- | :--- | :--- |
-| **Android (APK)** | **公開中 (v1.2.2)** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
+| **Android (APK)** | **バージョン 1.2.3** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **iOS (App Store)** | **準備中** | 審査準備中（近日公開予定） |
 
 > [!NOTE]
