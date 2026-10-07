@@ -258,10 +258,12 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 | Platform | Status | Link |
 | :--- | :--- | :--- |
 | **Android (APK)** | **バージョン 1.10.1** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
+| **Android (APK・AI 入り)** | 同じ Release の `_AI.apk` | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **iOS (App Store)** | **準備中** | 審査準備中（近日公開予定） |
 
 > [!NOTE]
 > Android版はAPKファイルでの配布となります。インストール時に「不明なアプリのインストール」の許可が必要になる場合があります。
+> 名前に「_AI」が付いた APK は、AI 着弾判定を含む版です。2つは同じアプリなので、1台にはどちらか一方だけが入ります（入れ替えても記録は残ります）。
 
 ---
 
