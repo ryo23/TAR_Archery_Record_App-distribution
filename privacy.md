@@ -43,3 +43,4 @@ AI 入りの版（Android の名前に「_AI」が付いた APK と、ブラウ�
 https://github.com/ryo23/TAR_Archery_Record_App-distribution/issues
 
 制定: 2026 年 10 月 6 日
+改定: 2026 年 10 月 8 日（AI 着弾判定の送信を追記）
