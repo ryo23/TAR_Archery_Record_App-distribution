@@ -12,6 +12,14 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 直感的なスコア入力、自動的な気象データの取得、そして詳細な統計分析により、あなたの的中精度向上をサポートします。
 
 ## 最新リリース
+### [v1.14.1] - 2026-11-20
+
+射場の週間予報で、風の向きの表示を直しました
+
+- 風の矢印が逆を向いていました。矢印は、矢が流される向き（上が的の方向）を指すようにしました。北向きの射場で西風の日なら、右向きの矢印になります
+- 「向かい風」と「追い風」が入れ替わっていました（斜めの風も同じです）。記録の結果画面と履歴に出る風向きも、正しい表示になります
+- 週間予報の風向きを日本語で出すようにしました（追い風・向かい風・左横風・右横風・左前から など）
+
 ### [v1.14.0] - 2026-10-17
 
 iPad などの横に広い画面で、記録画面が左右 2 列になりました
@@ -384,7 +392,7 @@ iPad などの横に広い画面で、記録画面が左右 2 列になりまし
 
 | Platform | Status | Link |
 | :--- | :--- | :--- |
-| **Android (APK)** | **バージョン 1.14.0** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
+| **Android (APK)** | **バージョン 1.14.1** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **Android (APK・AI 入り)** | 同じ Release の `_AI.apk` | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **iOS (App Store)** | **準備中** | 審査準備中（近日公開予定） |
 
