@@ -12,6 +12,13 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 直感的なスコア入力、自動的な気象データの取得、そして詳細な統計分析により、あなたの的中精度向上をサポートします。
 
 ## 最新リリース
+### [v1.16.0] - 2026-11-25
+
+AI の下書きで選べるモデルを増やしました（AI 入りの版だけ）
+
+- 写真から読み込むときの AI の下書きで、Google の Gemini 4 Neon（Vertex AI）を選べるようにしました。精度がいちばん高い一方、1 エンドに 20 秒から 30 秒ほどかかり、料金は Sonnet 5.5（浅い）の約 4 倍です
+- AI の入っていない版では、使い方に変わりはありません
+
 ### [v1.15.0] - 2026-11-25
 
 写真から読み込んだエンドを、まとめてコレクションに残せるようにしました
@@ -399,7 +406,7 @@ iPad などの横に広い画面で、記録画面が左右 2 列になりまし
 
 | Platform | Status | Link |
 | :--- | :--- | :--- |
-| **Android (APK)** | **バージョン 1.15.0** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
+| **Android (APK)** | **バージョン 1.16.0** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **Android (APK・AI 入り)** | 同じ Release の `_AI.apk` | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **iOS (App Store)** | **準備中** | 審査準備中（近日公開予定） |
 

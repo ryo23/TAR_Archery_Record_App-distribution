@@ -1,6 +1,6 @@
 # TAR Archery Record App 操作マニュアル
 
-**バージョン 1.15.0**
+**バージョン 1.16.0**
 
 ---
 
@@ -452,4 +452,4 @@ APIキーは端末内部のデータベースにのみ保存されます。イ�
 
 ---
 
-*TAR Archery Record App v1.15.0 — 操作マニュアル*
+*TAR Archery Record App v1.16.0 — 操作マニュアル*
