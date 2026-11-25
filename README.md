@@ -12,6 +12,13 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 直感的なスコア入力、自動的な気象データの取得、そして詳細な統計分析により、あなたの的中精度向上をサポートします。
 
 ## 最新リリース
+### [v1.15.0] - 2026-11-25
+
+写真から読み込んだエンドを、まとめてコレクションに残せるようにしました
+
+- 設定の「写真の保存容量」に「写真から読み込んだエンドを、すべてコレクションに入れる」を足しました（はじめは OFF です）。ON にすると、写真から読み込んだときの確認画面で、どのエンドにも最初から印が付きます。エンドごとに外せます
+- コレクションに、矢の位置をどうやって決めたか（写真の上で置いた、拡大して直した など）と、人が確かめたかどうかも残すようにしました。前の版のアプリとも、バックアップを行き来できます
+
 ### [v1.14.1] - 2026-11-20
 
 射場の週間予報で、風の向きの表示を直しました
@@ -392,7 +399,7 @@ iPad などの横に広い画面で、記録画面が左右 2 列になりまし
 
 | Platform | Status | Link |
 | :--- | :--- | :--- |
-| **Android (APK)** | **バージョン 1.14.1** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
+| **Android (APK)** | **バージョン 1.15.0** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **Android (APK・AI 入り)** | 同じ Release の `_AI.apk` | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **iOS (App Store)** | **準備中** | 審査準備中（近日公開予定） |
 
