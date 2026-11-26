@@ -12,6 +12,15 @@ TAR Archery Record App は、アーチェリー競技者のためのスコア管
 直感的なスコア入力、自動的な気象データの取得、そして詳細な統計分析により、あなたの的中精度向上をサポートします。
 
 ## 最新リリース
+### [v1.18.0] - 2026-11-26
+
+写真から読み込むとき、端末の中の AI が矢の位置を下書きするようになりました
+
+- 写真から読み込むと、端末の中の AI が矢の刺さった位置を探して、下書きを置きます。写真は端末の外に送りません。飛行機モードでも動きます
+- 下書きは確認画面で 1 本ずつ確かめ、位置がずれていれば直し、矢ではない点は削除し、足りない矢は足してください
+- 拾い方を「多め」「ふつう」「少なめ」から選べます（読み込みの画面と、設定画面の「写真から読み込む」）
+- ヘルプに使い方と、AI に使っている部品のライセンスを載せました
+
 ### [v1.16.0] - 2026-11-25
 
 AI の下書きで選べるモデルを増やしました（AI 入りの版だけ）
@@ -406,7 +415,7 @@ iPad などの横に広い画面で、記録画面が左右 2 列になりまし
 
 | Platform | Status | Link |
 | :--- | :--- | :--- |
-| **Android (APK)** | **バージョン 1.16.0** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
+| **Android (APK)** | **バージョン 1.18.0** | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **Android (APK・AI 入り)** | 同じ Release の `_AI.apk` | [**最新版をダウンロード**](https://github.com/ryo23/TAR_Archery_Record_App-distribution/releases/latest) |
 | **iOS (App Store)** | **準備中** | 審査準備中（近日公開予定） |
 
